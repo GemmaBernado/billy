@@ -17,7 +17,24 @@
   </teiHeader>
   <text>
     <body>
-      <p>Some text here.</p>
+      <p>
+        <subst>
+  <del rend="strikethrough">by its</del>
+  <add place="above-line">bright superiority</add>
+</subst>
+        
+         <lb/>luminous preeminence 
+         moving along
+with them like ^ signalized Aldebaran ^ superior among
+the lesser twinkling lights of his constellation.
+That signal ^ shining object signal figure ^ was the "Handsome
+Sailor" of the picturesque less prosaic era time ^ alike of
+the military and merchant navies. marine.
+With no perceptible trace of vanity the
+The vainglorious or vainglorious ^ about him, rather with the off-hand
+unaffectedness of natural innate
+regality, he seemed to accept the
+        Some text here.</p>
     </body>
   </text>
 </TEI>
