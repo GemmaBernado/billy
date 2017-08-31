@@ -19,13 +19,16 @@
     <body>
       <p>
         <subst>
-  <del rend="strikethrough">by its</del>
+  <del rend="strikethrough">by its preeminence</del>
   <add place="above-line">bright superiority</add>
 </subst>
         
-         <lb/>luminous preeminence 
-         moving along
-with them like ^ signalized Aldebaran ^ superior among
+         <subst>
+  <add place="below-line">luminous preeminence</add>
+</subst>
+        
+         <lb/>moving along
+<lb/>with them like Aldebaran among
 the lesser twinkling lights of his constellation.
 That signal ^ shining object signal figure ^ was the "Handsome
 Sailor" of the picturesque less prosaic era time ^ alike of
@@ -35,6 +38,6 @@ The vainglorious or vainglorious ^ about him, rather with the off-hand
 unaffectedness of natural innate
 regality, he seemed to accept the
         Some text here.</p>
-    </body>
-  </text>
+</body>
+</text>
 </TEI>
